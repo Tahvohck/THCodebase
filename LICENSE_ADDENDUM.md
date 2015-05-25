@@ -5,7 +5,7 @@ This documents outlines a series of addendums, primarily exceptions that the lic
 It should not be considered a legal document, but rather a general guideline.  
 
 #### Explicit Exemptions
-Explicit expemtions my be granted by any person who has [requirements]. Exemptions will be granted as a text file that lists:  
+Explicit exemptions may be granted by any person who has [requirements]. Exemptions will be granted as a text file that lists:  
 * The name or handle of the person being granted the exemption
 * The company they are affiliated with, if relevant
 * A list of the exemptions made for them
