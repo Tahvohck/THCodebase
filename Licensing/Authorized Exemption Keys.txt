@@ -1,0 +1,3 @@
+Key Owner:		Edward Richardson
+Keyserver:		http://sks-keyservers.net
+Fingerprint:	EC29 C968 2B40 7038 D86B  2103 935E 4426 0932 8561
