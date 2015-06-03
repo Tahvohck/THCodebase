@@ -1,3 +1,7 @@
 Key Owner:		Edward Richardson
 Keyserver:		http://sks-keyservers.net
 Fingerprint:	EC29 C968 2B40 7038 D86B  2103 935E 4426 0932 8561
+
+Key Owner: 		Angelinblackink
+Keyserver:		http://sks-keyservers.net
+Fingerprint:	0BE3 7B7C 3C0F 9967 48D2  1648 0AE5 6F84 F153 E1CD
